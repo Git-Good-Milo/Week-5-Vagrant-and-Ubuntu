@@ -1,4 +1,4 @@
-# Vagrants
+# Vagrants :taco:
 
 vagrant files manage the setup of virtual machines that will be created using virtualbox
 
