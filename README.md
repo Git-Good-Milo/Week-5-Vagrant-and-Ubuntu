@@ -8,7 +8,7 @@ vagrant files manage the setup of virtual machines that will be created using vi
 
     vagrant up
 
-## GIt and branching
+## Git and branching
 
 
 
