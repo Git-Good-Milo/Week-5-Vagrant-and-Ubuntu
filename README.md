@@ -33,3 +33,5 @@ so now we need to pull from github
 
 in out local master :
 git pull origin master
+
+# hopefully this works
